@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
+declare_id!("6jh18NDLTASsVvoZYSGwY3n9nDWmY8bVLAQhoYphuXTs");
 
 #[program]
 pub mod spool {
